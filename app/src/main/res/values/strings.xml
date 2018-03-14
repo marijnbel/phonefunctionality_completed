@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Latitude">Latitude: %1$s</string>
+    <string name="Longitude">Longitude: %1$s</string>
+    <string name="torch_availabe">Torch is not available on your device</string>
+    <string name="permission_denied_needed">Permission is needed to activate the torch</string>
+    <string name="permission_denied_needed_torch">Permission is needed to activate the torch</string>
+    <string name="permission_denied_needed_gps">Permission is needed to activate the gps</string>
+    <string name="permission_denied_required">Permission is needed to activate the torch, go to the app setting to change your permission</string>
+    <string name="permission_denied_required_torch">Permission is needed to activate the torch, go to the app setting to change your permission</string>
+    <string name="permission_denied_required_gps">Permission is needed to activate the gps, go to the app setting to change your permission</string>
+    <string name="title">Phone Functionalities</string>
+    <string name="startTracking">Start tracking location</string>
+    <string name="my_location">My Location</string>
+</resources>
